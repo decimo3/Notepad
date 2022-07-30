@@ -54,11 +54,11 @@ e) o armazenamento de bases de dados.
 
 
 ### Questão 5:
-Um dos tipos de servic¸o de armazenamento em Nuvem é o armazenamento de bases de dados. Esse modelo corresponde aos serviços de banco de dados em Nuvem ou Banco de dados como Servic¸o (DBaaS - Database as a Service). São servic¸os que, em geral, suportam algum tipo de linguagem de consulta ale´m de operac¸o~es ba´sicas de escrita ou leitura de dados.
+Um dos tipos de serviço de armazenamento em Nuvem é o armazenamento de bases de dados. Esse modelo corresponde aos serviços de banco de dados em Nuvem ou Banco de dados como Servic¸o (DBaaS - Database as a Service). São servic¸os que, em geral, suportam algum tipo de linguagem de consulta além de operações básicas de escrita ou leitura de dados.
 
 Considerando o conceito e a utilização de bancos NoSQL, analise o excerto a seguir, completando suas lacunas.
 
-O baixo desempenho dos bancos de dados ____________ para gerenciamento de grandes volumes de dados motivou o desenvolvimento dos bancos de dados _________. Os bancos na~o relacionais apresentam desempenho e escalabilidade significativamente superior para lidar com grandes volumes de dados ____________, o que e´ muito importante, por exemplo, para aplicac¸o~es web em larga escala.
+O baixo desempenho dos bancos de dados ____________ para gerenciamento de grandes volumes de dados motivou o desenvolvimento dos bancos de dados _________. Os bancos não relacionais apresentam desempenho e escalabilidade significativamente superior para lidar com grandes volumes de dados ____________, o que é muito importante, por exemplo, para aplicações web em larga escala.
 
 Assinale a alternativa que preenche corretamente as lacunas.
 
