@@ -14,3 +14,15 @@ if (confirm("Deseja acionar qual função?\n[YES] para diminuir cabeçalho\n[NOT
     }
   }
 }
+
+setInterval(() => {
+  var atividades = document.getElementsByClassName("toa-activities-sortablelist-caption");
+  for (let index = 0; index < atividades.length; index++) {
+    var texto = atividades[index].innerText;
+    console.log(texto);
+    var nota = texto.match(/[0-9]{12}/);
+    if(nota){
+      atividades[index].innerText = nota[0];
+    }
+  }
+},1000);
